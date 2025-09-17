@@ -9,3 +9,11 @@ You may put your whole developer journal in this one file, or split it into mult
 > **NOTE**: You may NOT use AI tools to generate your journal entries.  Doing so defeats the purpose of a developer journal.
 
 
+September 14, 2025: Was following along the instructions on Lab1, but having trouble on line 7.7. It requires to click on the green Run button next to the function name. But there was no green Run button next to it. And noticed that the “IO” is red, means there is an error. I deleted everything, Project and Github Repo and start over. I may have missed a few steps. 
+
+I deleted everything and restart fresh. I think the thing I missed is downloading the Early Access JDK. 
+
+September 16, 2025: I had ChatGPT conversation about the Try/Catch part, especially Files.writeString(Paths.get("myfile.txt"), filecontent, StandardOpenOption.CREATE, StandardOpenOption.WRITE), but I was not logged in and forgot to copy the URL. Initially, I didn't have the StandardOpenOption.CREATE, but I was getting an error. I asked ChatGPT and recommended to add  StandardOpenOption.CREATE. StandardOpenOption.WRITE cannot create and write. 
+
+September 17, 2025: [ChatGPT] (https://chatgpt.com/share/68cb47ca-f850-800b-b9be-3a738d0e1925)
+
