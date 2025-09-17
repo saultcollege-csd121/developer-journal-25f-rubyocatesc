@@ -15,5 +15,5 @@ I deleted everything and restart fresh. I think the thing I missed is downloadin
 
 September 16, 2025: I had ChatGPT conversation about the Try/Catch part, especially Files.writeString(Paths.get("myfile.txt"), filecontent, StandardOpenOption.CREATE, StandardOpenOption.WRITE), but I was not logged in and forgot to copy the URL. Initially, I didn't have the StandardOpenOption.CREATE, but I was getting an error. I asked ChatGPT and recommended to add  StandardOpenOption.CREATE. StandardOpenOption.WRITE cannot create and write. 
 
-September 17, 2025: [ChatGPT] (https://chatgpt.com/c/68cb3d4a-3200-8320-950e-d00903d6d325)
+September 17, 2025: [ChatGPT] (https://chatgpt.com/share/68cb47ca-f850-800b-b9be-3a738d0e1925)
 
